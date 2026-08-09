@@ -83,7 +83,7 @@
       <b>김태우</b><br/>
       <sub>Frontend Developer</sub><br/><br/>
       <img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/>
-      <a href="[https://your-portfolio-url.com](https://taewoo-portfolio.vercel.app/)" target="_blank" rel="noopener noreferrer">
+      <a href="https://taewoo-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
 </a>
     </td>
