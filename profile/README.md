@@ -82,25 +82,25 @@
       <img src="./assets/team/태우.png" width="105" alt="김태우" /><br/>
       <b>김태우</b><br/>
       <sub>Frontend Developer</sub><br/><br/>
-      <a href="https://github.com/kim3360" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<a href="https://taewoo-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/></a>
+      <a href="https://github.com/kim3360" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<a href="https://taewoo-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/></a>
     </td>
     <td align="center" width="180">
       <img src="./assets/team/승준.png" width="105" alt="이승준" /><br/>
       <b>이승준</b><br/>
       <sub>Frontend Developer</sub><br/><br/>
-      <a href="https://github.com/L0521" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/L0521" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
     </td>
     <td align="center" width="180">
       <img src="./assets/team/윤철.png" width="105" alt="정윤철" /><br/>
       <b>정윤철</b><br/>
       <sub>Frontend Developer</sub><br/><br/>
-      <a href="https://github.com/onebone" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/onebone" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
     </td>
     <td align="center" width="180">
       <img src="./assets/team/정규.png" width="105" alt="최정규" /><br/>
       <b>최정규</b><br/>
       <sub>Frontend Developer</sub><br/><br/>
-      <a href="https://github.com/JeongGyul" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/JeongGyul" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
     </td>
   </tr>
 </table>
@@ -113,31 +113,31 @@
       <img src="./assets/team/민주.png" width="105" alt="김민주" /><br/>
       <b>김민주</b><br/>
       <sub>Backend Developer</sub><br/><br/>
-      <a href="https://github.com/deli-minju" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/deli-minju" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
     </td>
     <td align="center" width="180">
       <img src="./assets/team/예원.png" width="105" alt="김예원" /><br/>
       <b>김예원</b><br/>
       <sub>Backend Developer</sub><br/><br/>
-      <a href="https://github.com/ywkim1m" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/ywkim1m" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
     </td>
     <td align="center" width="180">
       <img src="./assets/team/서윤.png" width="105" alt="이서윤" /><br/>
       <b>이서윤</b><br/>
       <sub>Backend Developer</sub><br/><br/>
-      <a href="https://github.com/seoyoon127" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/seoyoon127" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
     </td>
     <td align="center" width="180">
       <img src="./assets/team/예림.png" width="105" alt="이예림" /><br/>
       <b>이예림</b><br/>
       <sub>Backend Developer</sub><br/><br/>
-      <a href="https://github.com/yerimi00" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/yerimi00" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
     </td>
     <td align="center" width="180">
       <img src="./assets/team/보경.png" width="105" alt="주보경" /><br/>
       <b>주보경</b><br/>
       <sub>Backend Developer</sub><br/><br/>
-      <a href="https://github.com/joobogyeong" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/joobogyeong" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>&nbsp;<img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
     </td>
   </tr>
 </table>
