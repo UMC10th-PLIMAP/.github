@@ -3,12 +3,12 @@
      Brand Color: #C8F940
 
      이미지 저장 위치
-     - profile/assets/plimap logo.png
+     - profile/assets/logo.png
      - profile/assets/team/member.png
      ============================================================ -->
 
 <p align="center">
-  <img src="./assets/plimap logo.png" alt="PLIMAP Logo" width="120" />
+  <img src="./assets/logo.png" alt="PLIMAP Logo" width="120" />
 </p>
 
 <h1 align="center">PLIMAP</h1>
