@@ -47,8 +47,8 @@
       <img src="./assets/team/효리.png" width="105" alt="임효리" /><br/>
       <b>임효리</b><br/>
       <sub>Project Manager</sub><br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/Portfolio-C8F940?style=flat-square&logo=googlechrome&logoColor=111111" alt="Portfolio"/>
+      <a href="https://github.com/dlagyfl
+" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-C8F940?style=flat-square&logo=github&logoColor=111111" alt="GitHub"/></a>
     </td>
   </tr>
 </table>
