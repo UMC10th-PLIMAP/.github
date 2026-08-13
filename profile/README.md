@@ -14,7 +14,7 @@
 <h1 align="center">PLIMAP</h1>
 
 <p align="center">
-  <strong>음악과 장소를 연결해, 기억을 지도 위에 기록하다</strong><br/>
+  <strong>지도 위에서 발견하는 새로운 플레이리스트</strong><br/>
   <sub>Connect your music with the places you love</sub>
 </p>
 
